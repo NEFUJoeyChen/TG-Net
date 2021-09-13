@@ -1,6 +1,6 @@
 # TG-Net
 Reconstruct visual wood texture with semantic attention. Image Inpainting. 
-
+![image](https://github.com/NEFUJoeyChen/TG-Net/blob/main/img/train/Graphical%20Abstract.jpg)
 
 ## Requirements
 - Python3.7
