@@ -21,8 +21,9 @@ Reconstruct visual wood texture with semantic attention. Image Inpainting.
 - set images under `./img` and mask image is placed under the main directory of the folder. THen,
 
 ```python train.py```
-![image](https://github.com/NEFUJoeyChen/TG-Net/blob/main/img/train/niter_20000%20(4).png)
+
 ## Test
+![image](https://github.com/NEFUJoeyChen/TG-Net/blob/main/img/train/ex1.jpg)
 - You can retrain your own model using your dataset.
 - Modify the corresponding parameter of ArgumentParser(), then
 
