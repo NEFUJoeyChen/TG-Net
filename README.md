@@ -35,6 +35,7 @@ Reconstruct visual wood texture with semantic attention. Image Inpainting.
 ```python PSNR.py```
 
 ## Citation
+'''
 @article{CHEN2021,
 title = {TG-Net: Reconstruct visual wood texture with semantic attention},
 journal = {Computers & Graphics},
@@ -45,3 +46,4 @@ url = {https://www.sciencedirect.com/science/article/pii/S0097849321001928},
 author = {Jiahao Chen and Yilin Ge and Quan Wang and Yizhuo Zhang},
 keywords = {Wood defect treatment, Image inpainting, Generative adversarial networks, Attention mechanism},
 }
+'''
