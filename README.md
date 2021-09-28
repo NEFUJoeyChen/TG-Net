@@ -1,5 +1,6 @@
 # TG-Net
 Reconstruct visual wood texture with semantic attention. Image Inpainting. 
+[paper](https://www.sciencedirect.com/science/article/abs/pii/S0097849321001928?via%3Dihub)
 ![image](https://github.com/NEFUJoeyChen/TG-Net/blob/main/img/train/Graphical%20Abstract.jpg)
 
 ## Requirements
