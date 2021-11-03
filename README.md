@@ -1,6 +1,6 @@
 # TG-Net
 Reconstruct visual wood texture with semantic attention. Image Inpainting. 
-
+📃Now my article has provided 50 days of free visiting.Welcome to click the [link](https://authors.elsevier.com/c/1dxGrMFvI1HF8) to view our work.
 [paper](https://www.sciencedirect.com/science/article/abs/pii/S0097849321001928?via%3Dihub)
 
 ![image](https://github.com/NEFUJoeyChen/TG-Net/blob/main/img/train/Graphical%20Abstract.jpg)
